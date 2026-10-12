@@ -9,7 +9,7 @@ I'm Jason, a Computer Science & Economics student at **Boston University** (Expe
 
 | Repository | Link | Description | Awards / Recognition |
 | :--- | :--- | :--- | :--- |
-| **raft-consensus-go** | [GitHub](https://github.com/Jchu522/raft-consensus-go) | Fault-tolerant distributed key-value store built in Go implementing the Raft consensus algorithm | Distributed Systems |
+| **Raft-Consensus-Go** | [GitHub](https://github.com/Jchu522/raft-consensus-go) | Fault-tolerant distributed key-value store built in Go implementing the Raft consensus algorithm | Distributed Systems |
 | **Chip8-Emulator** | [GitHub](https://github.com/Jchu522/Chip8-Emulator) | Interpreter and emulator engineered in C using SDL2 for instruction decoding, graphics, and audio | Systems Programming |
 | **Automated-Internship-Tracker** | [GitHub](https://github.com/Jchu522/Automated-Internship-Tracker) | Python utility leveraging Google APIs, OAuth, and cron scheduling to parse emails and track applications | Process Automation |
 | **Gradescope_Auto_Submitter** | [GitHub](https://github.com/Jchu522/Gradescope_Auto_Submitter) | Remastered open-source CLI tool introducing automated polling retry loops for non-deterministic autograders | Developer Tooling |
