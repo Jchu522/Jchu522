@@ -4,7 +4,9 @@ I'm Jason, a Computer Science & Economics student at **Boston University** (Expe
 - Profound interest in building high-performance systems and developer tooling that 'stick'
 
 ---
-
+### 📊 GitHub Stats
+![Jason's Streak](https://streak-stats.demolab.com?user=jchu522&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jchu522&layout=compact&theme=transparent)
 ### 📚 Projects
 
 | Repository | Link | Description | Stack |
@@ -50,6 +52,4 @@ I'm Jason, a Computer Science & Economics student at **Boston University** (Expe
 
 ---
 
-### 📊 GitHub Stats
-![Jason's Streak](https://streak-stats.demolab.com?user=jchu522&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jchu522&layout=compact&theme=transparent)
+
