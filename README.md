@@ -30,7 +30,7 @@
 | **Software Engineer Intern** | Hack4Impact BU | Full-Stack Volunteer Scheduling Platform | 2024-10 — 2026-05 |
 | **Course Assistant & Grader** | Boston University | Academic Instruction & Grading | 2025-08 — 2025-12 |
 | **Canvasser & Software Engineering Intern** | Meridian Strategies | Database Synchronization Workflows | 2022-02 — 2025-08 |
-| **Google Mentee** | Google / Stuyvesant Mentorship | Technical Collaboration & Engineering Guidance | 2024-01 — 2024-06 |
+| **Google Mentee** | Google | Technical Collaboration & Engineering Guidance | 2024-01 — 2024-06 |
 
 <h3 align="center">📬 Connect & Follow Me</h3>
 <p align="center">
