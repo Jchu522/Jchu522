@@ -1,5 +1,5 @@
 ### Hi There! 👨‍💻
-I'm Jason, a Computer Science & Economics student at **Boston University** (Expected May 2028) based in New York and Boston
+<p align="center"><b>I'm Jason, a Computer Science & Economics student at **Boston University** (Expected May 2028) based in New York and Boston</b></p>
 - Currently, I focus on backend software engineering, distributed systems, and process automation
 - Profound interest in building high-performance systems and developer tooling that 'stick'
 
@@ -7,8 +7,13 @@ I'm Jason, a Computer Science & Economics student at **Boston University** (Expe
 ### 📊 GitHub Stats
 ![Jason's Streak](https://streak-stats.demolab.com?user=jchu522&theme=transparent)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jchu522&layout=compact&theme=transparent)
-### 📚 Projects
 
+<p align="center"><b>🛠 Languages and Tech Stack</b></p>
+<p align="center"><i>📖 I have been learning and exploring these following tools and languages</i></p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,go,c,cpp,java,javascript,sql,django,fastapi,nodejs,react,postgresql,mysql,mongodb,linux,git,docker,aws,gcp,bash" />
+</p>
 ### 👔 Experience
 
 | Position | Company | Field | Work Period |
