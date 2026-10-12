@@ -1,8 +1,6 @@
-<h1 align="center">Hi There! 👨‍💻</h1>
+<h1 align="center">Hi There! Welcome to my Github Profile!</h1>
 <h3 align="center">I'm Jason, a Computer Science & Economics student at <b>Boston University</b> (Expected May 2028)<br>based in New York and Boston</h3>
 
-- Currently, I focus on backend software engineering, distributed systems, and process automation.
-- Profound interest in building high-performance systems and developer tooling that 'stick'.
 
 ---
 
