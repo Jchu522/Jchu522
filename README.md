@@ -7,7 +7,7 @@ I'm Jason, a Computer Science & Economics student at **Boston University** (Expe
 
 ### 📚 Projects
 
-| Repository | Link | Description | Awards / Recognition |
+| Repository | Link | Description | Stack |
 | :--- | :--- | :--- | :--- |
 | **Raft-Consensus-Go** | [GitHub](https://github.com/Jchu522/raft-consensus-go) | Fault-tolerant distributed key-value store built in Go implementing the Raft consensus algorithm | Distributed Systems |
 | **Chip8-Emulator** | [GitHub](https://github.com/Jchu522/Chip8-Emulator) | Interpreter and emulator engineered in C using SDL2 for instruction decoding, graphics, and audio | Systems Programming |
