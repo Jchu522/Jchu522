@@ -49,4 +49,5 @@ I'm Jason, a Computer Science & Economics student at **Boston University** (Expe
 ---
 
 ### 📊 GitHub Stats
-![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jchu522&show_icons=true&theme=transparent)
+![Jason's Streak](https://streak-stats.demolab.com?user=jchu522&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jchu522&layout=compact&theme=transparent)
