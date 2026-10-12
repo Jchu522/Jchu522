@@ -13,7 +13,7 @@
 <p align="center"><i>📖 I have been learning and exploring these following tools and languages</i></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,c,cpp,java,javascript,sql,django,fastapi,nodejs,react,postgresql,mysql,mongodb,linux,git,docker,aws,gcp,bash" />
+  <img src="https://skillicons.dev/icons?i=python,go,c,cpp,java,javascript,django,fastapi,nodejs,react,postgresql,mysql,mongodb,linux,git,docker,aws,gcp,bash" />
 </p>
 ### 👔 Experience
 
