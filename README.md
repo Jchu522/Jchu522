@@ -1,8 +1,8 @@
-<p align="center"><b>###Hi There! 👨‍💻</b></p>
-<p align="center"><b>I'm Jason, a Computer Science & Economics student at **Boston University** (Expected May 2028) based in New York and Boston</b></p>
+<h1 align="center">Hi There! 👨‍💻</h1>
+<h3 align="center">I'm Jason, a Computer Science & Economics student at <b>Boston University</b> (Expected May 2028) based in New York and Boston</h3>
+
 - Currently, I focus on backend software engineering, distributed systems, and process automation
 - Profound interest in building high-performance systems and developer tooling that 'stick'
-
 ---
 ### 📊 GitHub Stats
 ![Jason's Streak](https://streak-stats.demolab.com?user=jchu522&theme=transparent)
