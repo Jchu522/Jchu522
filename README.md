@@ -40,4 +40,7 @@
   <a href="mailto:jchu522@bu.edu">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
+  <a href="https://jasonchu.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio Badge"/>
+  </a>
 </p>
