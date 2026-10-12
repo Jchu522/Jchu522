@@ -1,4 +1,4 @@
-<p align="center"><b>Hi There! 👨‍💻</b></p>
+<p align="center"><b>###Hi There! 👨‍💻</b></p>
 <p align="center"><b>I'm Jason, a Computer Science & Economics student at **Boston University** (Expected May 2028) based in New York and Boston</b></p>
 - Currently, I focus on backend software engineering, distributed systems, and process automation
 - Profound interest in building high-performance systems and developer tooling that 'stick'
