@@ -7,7 +7,6 @@
 <p align="center"><b>📊 GitHub Activity & Languages</b></p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=jchu522&theme=transparent" alt="Jason's Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jchu522&layout=compact&theme=transparent" alt="Top Languages" />
 </p>
 
 ---
